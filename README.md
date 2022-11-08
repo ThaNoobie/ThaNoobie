@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ThaNoobie
-- 👀 I’m interested in conding, modding/hacking, and a lot of hobbys like: cubing, butterfly knife, trapoline, ping pong, gaming and a lot more.
+- 👀 I’m interested in conding, modding/hacking, and a lot of hobbys like: cubing, butterfly knife, trampoline, ping pong, gaming and a lot more.
 - 🌱 I’m currently learning javascript and html.
 - 📫 You can message me at AlecLauStrini@gmail.com.
